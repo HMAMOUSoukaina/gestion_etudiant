@@ -1,0 +1,48 @@
+.bold-label {
+    -fx-font-weight: bold;
+    -fx-font-size:160%;
+    -fx-text-fill: #3A98B9;
+    
+    
+}
+.scene2{
+	-fx-font-weight: bold;
+    -fx-font-size:250%;
+    -fx-text-fill:BLACK;
+	
+}
+.b1{
+	-fx-background-color:#ECF8F9 ;
+}
+.label1{
+	-fx-font-weight: bold;
+	-fx-font-size:100%;
+	-fx-text-fill: #3A98B9;
+	
+	
+}
+.label2{
+	
+	-fx-font-size:110%;
+	-fx-text-fill: Black;
+	
+	}
+	
+.tableView{
+	-fx-border-color:#3A98B9;
+	-fx-border-width: 1.5px;
+	-fx-border-radius: 5px; 
+}
+.Button{
+	-fx-background-color: #EEEEEE; 
+	-fx-text-fill: BLACK; 
+	-fx-font-weight: bold;
+	-fx-border-color: #3A98B9; 
+	-fx-border-width: 2px;
+	-fx-border-radius: 5px;
+}
+.revenir{
+	-fx-background-color: #3A98B9; 
+	-fx-font-weight: bold;
+	
+}
